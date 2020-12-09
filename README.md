@@ -14,11 +14,9 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
-Hi, I'm [jeff ubayi](https://jeffubayi.site/), a FrontEnd Developer 🚀 from Kenya, currently, I'm a Web Developer 🙍🏽‍♂️ [@TwendeMobility](https://opensource.creativecommons.org/community/community-team/members/), Blogger 👨🏽‍💼[@Naiblog](https://naiblog.xyz) and a Founder [@Avalanche](https://github.com/ubeezy). Beside's programming, I enjoy gaming and traveling.
+Hi, I'm [jeff ubayi](https://jeffubayi.site/), a FrontEnd Developer 🚀 from Kenya, currently, I'm a Web Developer 🙍🏽‍♂️ [@TwendeMobility](https://github.com/twende-app), Blogger 👨🏽‍💼[@Naiblog](https://naiblog.xyz) and a Founder [@Avalanche](https://github.com/ubeezy). Beside's programming, I enjoy gaming and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -28,7 +26,7 @@ Hi, I'm [jeff ubayi](https://jeffubayi.site/), a FrontEnd Developer 🚀 from Ke
 - 🌱 I’m currently learning GraphQL and Dart; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jeffubayi](https://twitter.com/jeffubayi);
-- 📝[Resume](https://docs.google.com/document/d/1KMClKaL60bg7YDPjWZ34KyjP0QQajK8G0gItU0UmiRE/view)
+- 📝[Portfolio site](https://jeffubayi.site)
 
 **Languages and Tools:**  
 
@@ -41,6 +39,7 @@ Hi, I'm [jeff ubayi](https://jeffubayi.site/), a FrontEnd Developer 🚀 from Ke
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 <!--END_SECTION:waka-->
