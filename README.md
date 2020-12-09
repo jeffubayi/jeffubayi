@@ -16,6 +16,7 @@
 
 <br />
 
+
 Hi, I'm [jeff](https://jeffubayi.site/), a FrontEnd Developer 🚀 from Kenya, currently, I'm a Web Developer 🙍🏽‍♂️ [@TwendeMobility](https://github.com/twende-app), Blogger 👨🏽‍💼[@Naiblog](https://naiblog.xyz) and a Founder [@Avalanche](https://github.com/ubeezy). Beside's programming, I enjoy gaming and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
