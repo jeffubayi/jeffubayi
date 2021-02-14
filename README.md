@@ -5,7 +5,7 @@ Hi, I'm [jeff](https://jeffubayi.site/), a FrontEnd Developer 🚀 currently at 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Rails and Dart; 
+- 🌱 I’m currently learning Dart; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jeffubayi](https://twitter.com/jeffubayi);
 - 📝[Portfolio site](https://jeffubayi.site)
@@ -15,7 +15,9 @@ Hi, I'm [jeff](https://jeffubayi.site/), a FrontEnd Developer 🚀 currently at 
 
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffubayi&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffubayi&show_icons=true&theme=gotham" />
+  
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
 
