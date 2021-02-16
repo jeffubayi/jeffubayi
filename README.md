@@ -5,7 +5,7 @@ Hi, I'm [jeff](https://jeffubayi.site/), a FrontEnd Developer 🚀 currently at 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 Learning about TypeScript and Web components;
+- 🌱 Learning about TypeScript and Chatbots;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jeffubayi](https://twitter.com/jeffubayi);
 - 📝[Portfolio site](https://jeffubayi.site)
