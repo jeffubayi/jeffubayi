@@ -8,7 +8,7 @@ Hi, I'm [jeff](https://jeffubayi.site/), a FrontEnd Developer 🚀 currently at 
 - 🌱 Learning about TypeScript and Chatbots;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jeffubayi](https://twitter.com/jeffubayi);
-- 📝[Portfolio site](https://jeffubayi.site)
+- 📝[Portfolio site](https://ubayi.netlify.app)
 
 <!--END_SECTION:waka-->
 
