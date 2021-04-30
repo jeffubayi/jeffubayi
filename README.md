@@ -1,13 +1,10 @@
 
-Hi, I'm [jeff](https://ubayi.netlify.app/), a FrontEnd Developer 🚀 currently at [@TwendeMobility](https://github.com/twende-app) and Founder [@Bazenga](https://github.com/ubeezy). Beside's programming, I enjoy gaming and traveling.
+Hi, I'm [jeff](https://ubayi.netlify.app/), a FrontEnd Developer 🚀 currently at [@TwendeMobility](https://github.com/twende-app) and Founder [@Bazenga](https://github.com/ubeezy).
 
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 Learning about TypeScript and Chatbots;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@jeffubayi](https://twitter.com/jeffubayi);
+-   Knowledge hoarder 🧠 
+-  💻 lifelong learner 🤓, experimenter 🧪
+-  Blogging my 💙 out at [Ubeezy](https://ubayi.netlify.app/);
+-  💬 Ask me about anything, I am happy to [help](https://twitter.com/jeffubayi);
 
 <!--END_SECTION:waka-->
 
