@@ -4,7 +4,6 @@ Hi, I'm [jeff](https://ubayi.netlify.app/), a FrontEnd Developer 🚀 currently 
 -   Knowledge hoarder 🧠 
 -  💻 lifelong learner 🤓, experimenter 🧪
 -  Blogging my 💙 out at [Ubeezy](https://ubayi.netlify.app/);
--  💬 Ask me about anything, I am happy to [help](https://twitter.com/jeffubayi);
 
 <!--END_SECTION:waka-->
 
