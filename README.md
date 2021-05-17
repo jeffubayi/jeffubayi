@@ -1,5 +1,5 @@
-
-Hi, I'm [jeff](https://ubayi.netlify.app/), a FrontEnd Developer 🚀 currently at [@TwendeMobility](https://github.com/twende-app) and Founder [@Bazenga](https://github.com/ubeezy).
+## Hello 👋
+I'm [jeff](https://ubayi.netlify.app/), a FrontEnd Developer 🚀 currently at [@TwendeMobility](https://github.com/twende-app) and Founder [@Bazenga](https://github.com/ubeezy).
 
 -   Knowledge hoarder 🧠 
 -  💻 lifelong learner 🤓, experimenter 🧪
