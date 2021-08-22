@@ -2,7 +2,7 @@
 
 -   Knowledge hoarder 🧠 
 -  💻 lifelong learner 🤓, experimenter 🧪
--  Blogger at [Ubeezy](https://ubayi.netlify.app/);
+
 
 <!--END_SECTION:waka-->
 
