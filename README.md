@@ -1,7 +1,4 @@
-## Hello 👋,I'm [jeff](https://ubayi.netlify.app/)
 
-
-<!--END_SECTION:waka-->
 
 
 <br/>
