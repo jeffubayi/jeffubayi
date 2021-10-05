@@ -1,8 +1,5 @@
 ## Hello 👋,I'm [jeff](https://ubayi.netlify.app/)
 
--   Knowledge hoarder 🧠 
--  💻 lifelong learner 🤓, experimenter 🧪
-
 
 <!--END_SECTION:waka-->
 
